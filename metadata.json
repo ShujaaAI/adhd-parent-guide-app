@@ -1,0 +1,7 @@
+{
+  "name": "ADHD Parent Pal",
+  "description": "A comprehensive mobile application to support parents of children with ADHD by providing educational resources, practical tools, professional recommendations, and community support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
